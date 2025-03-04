@@ -147,7 +147,7 @@
                                 <input type="checkbox" class="form-check-input task-checkbox me-2">
                                 <span>${response.title}</span>
                             </div>
-                            <button class="btn btn-outline-dark delete-task">Delete</button>
+                            <button class="btn btn-outline-dark delete-task"><i class="fa fa-trash"></button>
                         </li>
                     `;
                     $('#taskList').append(newTask);
