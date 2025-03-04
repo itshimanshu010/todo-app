@@ -56,4 +56,8 @@ The app will be accessible at `http://127.0.0.1:8000/`.
 ---
 
 
+Recording of App:
+
+https://github.com/user-attachments/assets/94f4c1ca-18af-4b52-99a4-3cbb2abaf74a
+
 
