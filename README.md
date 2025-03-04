@@ -55,10 +55,5 @@ The app will be accessible at `http://127.0.0.1:8000/`.
 
 ---
 
-## About This Project
-This is an assignment for a To-Do List application built using Laravel 9.
 
-The project code is available on GitHub: [Repository Link](your-github-repo-url)
-
-Feel free to contribute or raise issues!
 
